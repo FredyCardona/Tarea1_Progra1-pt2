@@ -1,0 +1,14 @@
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\obj\Debug\net8.0\Ejemplo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\obj\Debug\net8.0\Ejemplo4.AssemblyInfoInputs.cache
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\obj\Debug\net8.0\Ejemplo4.AssemblyInfo.cs
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\obj\Debug\net8.0\Ejemplo4.csproj.CoreCompileInputs.cache
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\bin\Debug\net8.0\Ejemplo4.exe
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\bin\Debug\net8.0\Ejemplo4.deps.json
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\bin\Debug\net8.0\Ejemplo4.runtimeconfig.json
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\bin\Debug\net8.0\Ejemplo4.dll
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\bin\Debug\net8.0\Ejemplo4.pdb
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\obj\Debug\net8.0\Ejemplo4.dll
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\obj\Debug\net8.0\refint\Ejemplo4.dll
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\obj\Debug\net8.0\Ejemplo4.pdb
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\obj\Debug\net8.0\Ejemplo4.genruntimeconfig.cache
+C:\Users\Cardona\Desktop\Tare1-Progra1\Ejemplo4\Ejemplo4\obj\Debug\net8.0\ref\Ejemplo4.dll
